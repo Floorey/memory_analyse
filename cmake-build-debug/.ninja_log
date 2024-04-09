@@ -1,0 +1,5 @@
+# ninja log v5
+0	448	7342220994354299	CMakeFiles/heap_analysing_tool.dir/main.cpp.obj	56be32827696174e
+450	554	7342220995405331	heap_analysing_tool.exe	3623bfb0c510f152
+3	706	7342248642905141	CMakeFiles/heap_analysing_tool.dir/main.cpp.obj	56be32827696174e
+707	853	7342248644382303	heap_analysing_tool.exe	3623bfb0c510f152
